@@ -1,30 +1,40 @@
-# Hi there 🖐️ Andika Bastino
+# 🖐️ Halo, Saya Andika Bastino  
 
-## 🚀 Membuat aplikasi web sederhana untuk manajemen , dengan teknologi terbaru.
+💻 **Jurnalis Profesional | Tech Enthusiast | Future Entrepreneur**  
 
----
-
-## ✨ Fitur Utama
-- ✅ Tambah, edit, dan hapus data
-- ✅ UI sederhana dan responsif
-- ✅ Otentikasi pengguna
-- ✅ API RESTful terintegrasi
+Saya seorang jurnalis berpengalaman di bidang pemberitaan pendidikan.  
+Saat ini saya juga sedang mempelajari **teknologi, pemrograman, dan pengembangan web**, karena bercita-cita membangun bisnis berbasis digital di masa depan.  
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
-- [Node.js](https://nodejs.org/)
-- [React](https://react.dev/)
-- [Express.js](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
+## 🚀 Tentang Saya
+- 📰 Pengalaman menulis dan mengelola konten berita pendidikan  
+- 🌱 Sedang belajar Git, GitHub, serta teknologi web (HTML, CSS, JavaScript, React)  
+- 🎯 Tujuan: Membangun bisnis digital dan produk teknologi di kemudian hari  
+- 📍 Berdomisili di **Indonesia**  
 
 ---
 
-## 📦 Instalasi
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/nama-proyek.git
-   cd nama-proyek
+## 🛠️ Teknologi & Tools
+- **Bahasa Pemrograman**: JavaScript, Python (basic)  
+- **Version Control**: Git & GitHub  
+- **Tools**: VS Code, Figma, Notion  
+
+---
+
+## 📊 GitHub Stats
+![Andika's GitHub stats](https://github-readme-stats.vercel.app/api?username=andika-bastino&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Hubungi Saya
+- ✉️ Email: **andika.bastino@example.com**  
+- 🌐 LinkedIn: [Andika Bastino](https://linkedin.com/in/andika-bastino)  
+- 🐙 GitHub: [andika-bastino](https://github.com/andika-bastino)  
+
+---
+
+⭐️ *"Belajar bukan hanya untuk hari ini, tetapi untuk membangun masa depan."*  
 
 <!--
 **agtusasiandika-gif/agtusasiandika-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

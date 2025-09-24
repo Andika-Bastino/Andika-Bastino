@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi there 🖐️ Andika Bastino
 
+## About me,
+- new dev programming
 <!--
 **agtusasiandika-gif/agtusasiandika-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

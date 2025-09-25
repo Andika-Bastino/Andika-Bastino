@@ -1,14 +1,14 @@
-# 🖐️ Halo, Saya Andika Bastino  
+# 🖐️ Halo, Saya Agtusasi Andika Bastino  
 
-💻 **Jurnalis Profesional | Tech Enthusiast | Future Entrepreneur**  
+💻 **Developer | Tech Enthusiast | Future Entrepreneur**  
 
-Saya seorang jurnalis berpengalaman di bidang pemberitaan pendidikan.  
+Saya seorang developer junior.  
 Saat ini saya juga sedang mempelajari **teknologi, pemrograman, dan pengembangan web**, karena bercita-cita membangun bisnis berbasis digital di masa depan.  
 
 ---
 
 ## 🚀 Tentang Saya
-- 📰 Pengalaman menulis dan mengelola konten berita pendidikan  
+- 📰 Pengalaman membuat website dan aplikasi sederhana 
 - 🌱 Sedang belajar Git, GitHub, serta teknologi web (HTML, CSS, JavaScript, React)  
 - 🎯 Tujuan: Membangun bisnis digital dan produk teknologi di kemudian hari  
 - 📍 Berdomisili di **Indonesia**  
@@ -28,25 +28,10 @@ Saat ini saya juga sedang mempelajari **teknologi, pemrograman, dan pengembangan
 ---
 
 ## 📫 Hubungi Saya
-- ✉️ Email: **andika.bastino@example.com**  
-- 🌐 LinkedIn: [Andika Bastino](https://linkedin.com/in/andika-bastino)  
+- ✉️ Email: **agtusasiandika@gmail.com**  
+- 🌐 LinkedIn: [Agtusasi Andika Bastino](https://linkedin.com/in/agtusasi-andika-bastino)  
 - 🐙 GitHub: [andika-bastino](https://github.com/andika-bastino)  
 
 ---
 
 ⭐️ *"Belajar bukan hanya untuk hari ini, tetapi untuk membangun masa depan."*  
-
-<!--
-**agtusasiandika-gif/agtusasiandika-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
